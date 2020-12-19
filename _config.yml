@@ -52,13 +52,13 @@ medium: null
 # lanyrd: mylanyrd
 email: joowonkoh@naver.com
 
-authors:Joowon Koh
+authors:
   johndoe:
     name: Joowon Koh
     bio: Hi
     external-image: false
     picture: assets/images/profile.jpg
-    instagram: joo00_5
+    instagram: joo00_05
   jamesfoster:
     name: 
     bio: Hi
