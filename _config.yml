@@ -36,7 +36,7 @@ disqus:
 # if you don't have any of social below, comment the line
 facebook: joowon.koh.3
 # twitter: null
-instagram: joo00_05
+instagram: joo00_5
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
@@ -52,15 +52,15 @@ medium: null
 # lanyrd: mylanyrd
 email: joowonkoh@naver.com
 
-authors:
+authors:Joowon Koh
   johndoe:
     name: Joowon Koh
     bio: Hi
     external-image: false
     picture: assets/images/profile.jpg
-    instagram: Joo00_05
+    instagram: joo00_5
   jamesfoster:
-    name: Joowon Koh
+    name: 
     bio: Hi
     external-image: false
     picture: assets/images/profile.jpg
