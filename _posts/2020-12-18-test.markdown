@@ -1,8 +1,8 @@
 ---
-title: "TEST - 2020.12.18"
+title: TEST - 2020.12.18
 layout: post
 date: 2020-12-18 04:26
-image: /assets/images/markdown.jpg
+image: "/assets/images/markdown.jpg"
 headerImage: false
 tag:
 - markdown
@@ -15,7 +15,7 @@ description: test post
 
 ## Basic formatting
 
-**고주원** 바보 멍청이 [This is facebook][1] < 내 *페이스북 링크*.
+**고주원** 이 [This is facebook][1] < 내 *페이스북 링크*.
 
 링크를 달고 싶다면, [][] 첫 번째 괄호 안에 표시될 내용, 두 번째 괄호 안에 링크 번호 or 링크
 > 링크 번호는 맨 하단에 선언하는 듯
@@ -213,7 +213,7 @@ $(window).scroll(function() {
 });
 
 
-[1]: https://facebook.com/gnwjd309
+[1]: https://facebook.com/joowon.koh.3
 [2]: https://www.fileformat.info/info/unicode/char/2163/index.htm
 [3]: https://daringfireball.net/projects/markdown/basics
 [4]: https://daringfireball.net/projects/markdown/syntax
