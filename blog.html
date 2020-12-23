@@ -6,9 +6,10 @@ title: Blog
 pagination:
   enabled: true
 ---
+{% include category.html%}
 <section class="list">
 	{% if site.posts.size == 0 %}
-	{% include category.html %}
+
 		<p class="text-center">Nothing published yet!</p>
 	{% elsif site.pagination.enabled %}
 		{% for post in paginator.posts %}
